@@ -355,8 +355,8 @@ $confirmed = 0;
   $email = $_REQUEST['email'];
     
   //Email out the infromation
-  $subject = "Journal of Biomass to Biofuel h (JBB)"; 
-  $message = "Thank you for signing up to receive alerts for JBB - Journal of Biomass to Biofuel .
+  $subject = "Journal of Biomass to Biofuel (JBB)"; 
+  $message = "Thank you for signing up to receive alerts for JBB - Journal of Biomass to Biofuel.
  
  In order to confirm your subscription, please visit the link below:
   http://$jName.avestia.com/subscribe/?ID=$uniqueID
